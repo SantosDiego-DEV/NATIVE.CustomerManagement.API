@@ -79,7 +79,7 @@ nvm use 26.5.0
 1. **Clonar o repositório e acessar a pasta da API:**
 
    ```bash
-   git clone https://github.com/DiegoSantos18/NATIVE.CustomerManagement.API.git
+   git clone https://github.com/SantosDiego-DEV/NATIVE.CustomerManagement.API.git
    cd NATIVE.CustomerManagement.API
    ```
 
