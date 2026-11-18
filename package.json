@@ -28,16 +28,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DiegoSantos18/NATIVE.CustomerManagement.API.git"
+    "url": "git+https://github.com/SantosDiego-DEV/NATIVE.CustomerManagement.API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/DiegoSantos18/NATIVE.CustomerManagement.API/issues"
+    "url": "https://github.com/SantosDiego-DEV/NATIVE.CustomerManagement.API/issues"
   },
-  "homepage": "https://github.com/DiegoSantos18/NATIVE.CustomerManagement.API#readme",
+  "homepage": "https://github.com/SantosDiego-DEV/NATIVE.CustomerManagement.API#readme",
   "dependencies": {
     "@prisma/adapter-mariadb": "^7.10.1",
     "@prisma/client": "^7.10.1",
